@@ -1,4 +1,4 @@
-# adapter
+﻿# adapter
 [![Build Status](https://travis-ci.com/AppleIntelWifi/adapter.svg?branch=master)](https://travis-ci.com/AppleIntelWifi/adapter)
 [![Coverity Status](https://scan.coverity.com/projects/20762/badge.svg)](https://scan.coverity.com/projects/appleintelwifi)
 ## Purpose
@@ -36,13 +36,14 @@ If your card is not listed here (or does not have an open issue), please open an
 
 **NOTE: AX-series cards are currently NOT supported, and are very likely to never be supported.**
 
+
 ## Build instructions
 ```
 ./scripts/build.sh && ./scripts/load.sh
 ```
 
 ## Credits
-[Apple]() for making macOS, and all of the ~~glorious~~awful APIs that I use
+[Apple](https://apple.com) for making macOS, and all of the ~~glorious~~awful APIs that I use
 
 [@zxystd](https://github.com/zxystd) for writing the initial base code for this kext
 
